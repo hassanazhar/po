@@ -5,6 +5,6 @@
 # (Hopefully, by the time you read this, you have already found a git client.)
 # Just follow the instructions below...
 
-# REPLACE THIS LINE WITH THE TEXT: "PENGUINS" (WITHOUT "s AND #s)
-# REPLACE THIS LINE WITH YOUR FULL NAME
-# REPLACE THIS LINE WITH YOUR UT EID (ALL LOWERCASE)
+ Penguins
+ Hassan Azhar Chughtai
+ hac865
